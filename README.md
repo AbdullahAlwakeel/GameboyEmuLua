@@ -4,7 +4,7 @@ Note: This project is incomplete, and work has stopped. I am uploading the code 
 
 Project start/stop date: 2018
 
-A gameboy emulator written entirely using Lua. Uses LuaJIT and SDL Lua port for displaying graphics.
+A gameboy emulator written entirely using Lua. Uses LuaJIT and SDL Lua port for displaying graphics. Easy-to-read code is a priority in this implementation, but performance is still good if using the JIT compiler for Lua.
 
 Lua (+JIT) is used for all operations including emulation, displaying graphics, taking user input.
 All CPU instructions and user input operations are implemented, majority of PPU functions are implemented. Sound is not implemented, and the only supported cartridge types are (MBC1 type) as well as regular cartridge.
