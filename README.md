@@ -2,7 +2,7 @@
 
 Note: This project is incomplete, and work has stopped. I am uploading the code for anyone who is interested in the implementation or details.
 
-Project start date: 2018
+Project start/stop date: 2018
 
 A gameboy emulator written entirely using Lua. Uses LuaJIT and SDL Lua port for displaying graphics.
 
